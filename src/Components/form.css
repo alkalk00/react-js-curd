@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.addform{
+    /* width: auto; */
+    height: 100%;
+    padding: 5ex;
+}
+.addform .form-group input{
+    width: 100%;
+    margin: 5px;
+}
+.addform .row button{
+    width: 50%;
+    margin: 5px;
+}
+.delete{
+    color: red!important;
+    cursor: pointer;
+}
+.edit{
+    color: #0d9240;
+}
